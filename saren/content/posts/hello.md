@@ -10,7 +10,7 @@ I'm glad you're here to see my progressively worsening relationship with compute
 
 ## >lslogins -u saren
 
-I'm a huge nerd (peer-reviewed claim) who's been messing around with all manner of digital stuff since 2009, going from courses to projects to a destiny yet unknown. I like poking around things until they break and then using the no-so-broken parts to build something useful.
+I'm a huge nerd (peer-reviewed claim) who's been messing around with all manner of digital stuff since 2009, going from courses to projects to a destiny yet unknown. I like poking around things until they break and then using the not-so-broken parts to build something useful.
 
 When I'm not in an IDE or TTY emulator, I'm editing videos, learning about computing past, photographing the spaces we inhabit, or just vibing to music (sometimes live on air)
 

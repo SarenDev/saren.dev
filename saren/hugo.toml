@@ -2,11 +2,13 @@ baseURL = 'https://saren.dev'
 languageCode = 'en-us'
 title = 'saren.dev'
 theme = 'term'
+enableGitInfo = true
 
 [params]
     contentTypeName = "posts"
-    themeColor = "orange"
     favicon = "favicon.ico"
+    showLastUpdated = true
+    centerTheme = true
 
 [languages]
 
