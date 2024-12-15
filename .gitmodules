@@ -1,1 +1,4 @@
 
+[submodule "saren/themes/term"]
+	path = saren/themes/term
+	url = https://github.com/panr/hugo-theme-terminal.git
