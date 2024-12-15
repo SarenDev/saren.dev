@@ -1,4 +1,4 @@
-baseURL = 'https://saren.dev/'
+baseURL = 'https://saren.dev'
 languageCode = 'en-us'
 title = 'saren.dev'
 theme = 'term'
