@@ -1,0 +1,40 @@
+baseURL = 'https://saren.dev/'
+languageCode = 'en-us'
+title = 'saren.dev'
+theme = 'term'
+
+[params]
+    contentTypeName = "posts"
+    themeColor = "orange"
+    favicon = "favicon.ico"
+
+[languages]
+
+    [languages.en.params]
+        title = "saren.dev"
+        subtitle = "Another homepage, another idea"
+        keywords = ""
+        menuMore = "Show more"
+        readMore = "Keep reading"
+        readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+        logoText = "saren.dev"
+        logoHomeLink = "/"
+
+[languages.en.menu]
+    [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/hello"
+    [[languages.en.menu.main]]
+        identifier = "github"
+        name = "GitHub"
+        url = "https://github.com/SarenDev"
+    [[languages.en.menu.main]]
+        identifier = "gravatar"
+        name = "Gravatar links"
+        url = "https://gravatar.com/sarendev"
+
+
+    
