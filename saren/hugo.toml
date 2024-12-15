@@ -26,7 +26,7 @@ theme = 'term'
     [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/hello"
+        url = "/posts/hello"
     [[languages.en.menu.main]]
         identifier = "github"
         name = "GitHub"
